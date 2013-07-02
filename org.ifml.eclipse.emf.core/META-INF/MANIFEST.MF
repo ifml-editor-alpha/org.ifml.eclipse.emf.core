@@ -1,0 +1,11 @@
+Manifest-Version: 1.0
+Bundle-ManifestVersion: 2
+Bundle-Name: IFML Eclipse EMF Library
+Bundle-SymbolicName: org.ifml.eclipse.emf.core
+Bundle-Version: 0.1.0.qualifier
+Bundle-Vendor: WebRatio s.r.l.
+Bundle-RequiredExecutionEnvironment: JavaSE-1.6
+Require-Bundle: org.ifml.lib.google.guava,
+ org.eclipse.emf.ecore,
+ org.ifml.base
+Export-Package: org.ifml.eclipse.emf.ecore
